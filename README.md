@@ -1,5 +1,5 @@
 # AI-Emoji-Recommender
-# TAP ON LINK TO TRY
+TRY IT OUT, TAP ON LINK[ https://huggingface.co/spaces/PJ2005/emoji-recommender ]
 AI-powered Emoji Recommender built with Python + Gradio. Enter text, and it suggests fun, context-matching emojis instantly. Covers emotions, food, animals, activities, and more!
 
 
