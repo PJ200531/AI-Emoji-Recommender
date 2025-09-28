@@ -7,7 +7,7 @@ AI-powered Emoji Recommender built with Python + Gradio. Enter text, and it sugg
 
 
 # AI Emoji Recommender 🎭✨
-
+It is a MINI prototype version of this. It is expandable!
 A simple yet fun project built with **Python** and **Gradio**.  
 Type in any text, and it suggests the most relevant emojis from an extended dictionary — emotions, food, animals, activities, weather, and more!
 
