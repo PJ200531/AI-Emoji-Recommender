@@ -1,5 +1,6 @@
-# AI-Emoji-Recommender
+# TRY FOR FREE 
 TRY IT OUT, TAP ON LINK[ https://huggingface.co/spaces/PJ2005/emoji-recommender ]
+EXAMPLE -just type "i love pizza" and let it describe the whole scentence in emojis!!!
 AI-powered Emoji Recommender built with Python + Gradio. Enter text, and it suggests fun, context-matching emojis instantly. Covers emotions, food, animals, activities, and more!
 
 
